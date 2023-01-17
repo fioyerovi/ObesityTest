@@ -17,7 +17,6 @@ scikit-learn==1.1.1
 scipy==1.9.0
 seaborn==0.11.2
 selenium==4.3.0
-sklearn==0.0.post1
 tensorboard==2.11.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
